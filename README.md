@@ -1,4 +1,3 @@
 # MyFirstProject
 
-Here is my first change'
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Here is my first change.
